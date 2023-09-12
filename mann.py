@@ -6,6 +6,7 @@ def osd():
 
 def hallogen():
   nothin = "nothing much"
-  some_var = 038372
+  some_var = 2
+  some_var = 3
   print(nothin)
 
